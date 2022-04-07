@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hoje {
+    font-size: 20px;
+    color: darkred;
+}
+
+.amanha {
+    font-size: 20px;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+a h2 {
+    color: seagreen;
+}
