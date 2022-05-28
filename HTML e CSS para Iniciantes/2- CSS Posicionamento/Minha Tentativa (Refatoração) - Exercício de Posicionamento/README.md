@@ -4,15 +4,9 @@
   <li>Trocar todas as tags possíveis por tags semânticas. ✅</li>
 <br>
   <li>Modificar as unidades de medida, principalmente *Tipografia* por "rem". ✅</li>
-<<<<<<< HEAD
-
-  <li>Inserir SVG de ondas no background de "Vantagens Bikcraft", conforme estilo passado. ❌</li>
-
-=======
 <br>
-  <li>Inserir SVG de ondas no background de "Vantagens Bikcraft", conforme estilo passado.</li>
+  <li>Inserir SVG de ondas no background de "Vantagens Bikcraft", conforme estilo passado. ❌ (Aprendido posteriormente ✅)</li>
 <br>
->>>>>>> 6b3996f3ef0aa82f66e95ad5c651f9978c690100
   <li>Modificar estado de alguns elementos. ✅
     <ol>
         <li>Itens de navegação do Header: Borda vermelha em cada elemento quando o cursor estiver em cima do mesmo. ✅</li>
