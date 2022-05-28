@@ -119,15 +119,13 @@ main {
     text-align: end;
     margin-right: 1.563rem;
     width: 100%;
+    /* background-image: url("/assets/waves.svg"); */
 }
 
 .vantagens {
     height: 28.125rem;
     display: flex;
     align-items: center;
-    /* background-image: url("/assets/waves.svg");
-    background-repeat: repeat;
-    background-size: contain; */
 }
 
 button {
